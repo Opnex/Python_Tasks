@@ -1,0 +1,7 @@
+fav_dish = input("Please enter your 1st favourite dish: ")
+fav_dish2 = input("Please enter your 2nd favourite dish: ")
+fav_dish3 = input("Please enter your 3rd favourite dish: ")
+dishes = (fav_dish, fav_dish2, fav_dish3)
+dish = tuple(dishes)
+print("Your favourite dishes are:", dish)
+print("",fav_dish,"\n", fav_dish2,"\n", fav_dish3)
