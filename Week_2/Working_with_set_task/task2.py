@@ -14,4 +14,4 @@ students = set()
 for i in range(5):
     name = input("Please enter your full name: ")
     students.add(name)
-    print(f"Unique nammes: {sorted(students)}")
+print(f"Unique nammes: {sorted(students)}")
