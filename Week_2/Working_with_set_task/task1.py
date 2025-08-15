@@ -15,17 +15,3 @@ for i in range(5):
     fruits = input("Please enter your favourite fruit name: ")
     fav_fruits.add(fruits)
 print(f"{fav_fruits}")
-
-
-
-# Task2: Unique Name Collector
-#  - Write a program that collects the names of people attending a seminar (no duplicates allowed) and displays them in alphabetical order.
-students = {
-    input("please enter your full name: "),
-    input("please enter your full name: "),
-    input("please enter your full name: "),
-    input("please enter your full name: "),
-    input("please enter your full name: ")
-}
-alphabetical_order = list(students).sort()
-print(alphabetical_order)
