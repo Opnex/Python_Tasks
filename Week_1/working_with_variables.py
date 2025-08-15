@@ -1,8 +1,8 @@
 # Declaring a variable using string, int and float
-# name = "Opeyemi"
-# age = 20
-# height = 5.8
-# print(f"My name is {name} and i am, {age} years old. My height is {height}")
+name = "Opeyemi"
+age = 20
+height = 5.8
+print(f"My name is {name} and i am, {age} years old. My height is {height}")
 
 
 # str()

@@ -6,7 +6,6 @@
 
 voters = set()
 names = input("Please enter your name(s) to register as a voter (separate with commas): ")
-
 for name in names.split(","):
     name = name.strip()
     if name in voters:

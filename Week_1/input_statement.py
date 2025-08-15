@@ -1,18 +1,18 @@
-# #Basic usage of input()
-# name = input("Enter your name: ")
-# print("Hello,", name)
+#Basic usage of input()
+name = input("Enter your name: ")
+print("Hello,", name)
 
 
-# #Convert input to integer
-# age = int(input("Enter your age: "))
-# print(f"You will be {age + 1} years old next year")
+#Convert input to integer
+age = int(input("Enter your age: "))
+print(f"You will be {age + 1} years old next year")
 
 
-# #Calculate using input
-# num1 = float(input("Enter first number: "))
-# num2 = float(input("Enter second number: "))
-# sum_result = num1 + num2
-# print(f"The sum of {num1} and {num2} is {sum_result}.")
+#Calculate using input
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+sum_result = num1 + num2
+print(f"The sum of {num1} and {num2} is {sum_result}.")
 
 
 
@@ -20,18 +20,18 @@
 # Step2 Request customer to place order
 # Step3 Tells ustomer to confirm order the proceed
 
-# # Greetings
-# greeting = "Hello! Welcome to Opnex Eat and Smile"
-# print(greeting)
+# Greetings
+greeting = "Hello! Welcome to Opnex Eat and Smile"
+print(greeting)
 
-# # Order
-# order = input("Please kindly place your order: ")
-# print("Your order:", order)
+# Order
+order = input("Please kindly place your order: ")
+print("Your order:", order)
 
 
-# # Confirm
-# confirm = input("Please confirm your order with proceed: ")
-# print("Thanks for your patronage")
+# Confirm
+confirm = input("Please confirm your order with proceed: ")
+print("Thanks for your patronage")
 
 
 
